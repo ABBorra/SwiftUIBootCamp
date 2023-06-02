@@ -10,7 +10,7 @@ import SwiftUI
 // MARK :- VIEWMODEL
 class EscapingViewModel: ObservableObject {
     
-    @Published var updatingText = "Helloooo.."
+    @Published var updatingText = "Helloooo..Helloo.."
     
     func getData() {
         //      downloadData4 { [weak self] retunData in
