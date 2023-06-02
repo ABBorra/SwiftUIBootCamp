@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-
+// MARK :- VIEWMODEL
 class EscapingViewModel: ObservableObject {
     
     @Published var updatingText = "Helloooo.."
@@ -47,14 +47,17 @@ class EscapingViewModel: ObservableObject {
     }
 }
 
+// MARK :- MODEL
 struct DownloadResultModel {
     let name : String?
     let job : String?
 }
 
 typealias downloadCompletion = (DownloadResultModel) -> ()
+
+
+// MARK :- VIEW
 struct EscapingBootCamp: View {
-    
     @StateObject var vm = EscapingViewModel()
     
     var body: some View {
