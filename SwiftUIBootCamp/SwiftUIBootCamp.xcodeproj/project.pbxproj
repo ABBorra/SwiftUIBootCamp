@@ -13,6 +13,7 @@
 		5AFEA6A12A2A583D00BBEDDE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5AFEA6A02A2A583D00BBEDDE /* Preview Assets.xcassets */; };
 		5AFEA6A82A2A730B00BBEDDE /* PaddingBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AFEA6A72A2A730B00BBEDDE /* PaddingBootCamp.swift */; };
 		5AFEA6AA2A2E3EEC00BBEDDE /* ScrollViewBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AFEA6A92A2E3EEC00BBEDDE /* ScrollViewBootCamp.swift */; };
+		5AFEA6AC2A2E43A500BBEDDE /* ScrollViewReaderBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AFEA6AB2A2E43A500BBEDDE /* ScrollViewReaderBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		5AFEA6A02A2A583D00BBEDDE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5AFEA6A72A2A730B00BBEDDE /* PaddingBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootCamp.swift; sourceTree = "<group>"; };
 		5AFEA6A92A2E3EEC00BBEDDE /* ScrollViewBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootCamp.swift; sourceTree = "<group>"; };
+		5AFEA6AB2A2E43A500BBEDDE /* ScrollViewReaderBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				5AFEA6A72A2A730B00BBEDDE /* PaddingBootCamp.swift */,
 				5AFEA69B2A2A583800BBEDDE /* EscapingBootCamp.swift */,
 				5AFEA6A92A2E3EEC00BBEDDE /* ScrollViewBootCamp.swift */,
+				5AFEA6AB2A2E43A500BBEDDE /* ScrollViewReaderBootCamp.swift */,
 				5AFEA69D2A2A583D00BBEDDE /* Assets.xcassets */,
 				5AFEA69F2A2A583D00BBEDDE /* Preview Content */,
 			);
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5AFEA6A82A2A730B00BBEDDE /* PaddingBootCamp.swift in Sources */,
+				5AFEA6AC2A2E43A500BBEDDE /* ScrollViewReaderBootCamp.swift in Sources */,
 				5AFEA69C2A2A583800BBEDDE /* EscapingBootCamp.swift in Sources */,
 				5AFEA6AA2A2E3EEC00BBEDDE /* ScrollViewBootCamp.swift in Sources */,
 				5AFEA69A2A2A583800BBEDDE /* SwiftUIBootCampApp.swift in Sources */,
