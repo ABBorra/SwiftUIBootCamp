@@ -15,6 +15,7 @@
 		5AFEA6AA2A2E3EEC00BBEDDE /* ScrollViewBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AFEA6A92A2E3EEC00BBEDDE /* ScrollViewBootCamp.swift */; };
 		5AFEA6AC2A2E43A500BBEDDE /* ScrollViewReaderBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AFEA6AB2A2E43A500BBEDDE /* ScrollViewReaderBootCamp.swift */; };
 		5AFEA6AE2A2E53AA00BBEDDE /* HashabaleBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AFEA6AD2A2E53AA00BBEDDE /* HashabaleBootCamp.swift */; };
+		5AFEA6B02A2E5CAC00BBEDDE /* ArrayBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AFEA6AF2A2E5CAC00BBEDDE /* ArrayBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		5AFEA6A92A2E3EEC00BBEDDE /* ScrollViewBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootCamp.swift; sourceTree = "<group>"; };
 		5AFEA6AB2A2E43A500BBEDDE /* ScrollViewReaderBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootCamp.swift; sourceTree = "<group>"; };
 		5AFEA6AD2A2E53AA00BBEDDE /* HashabaleBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashabaleBootCamp.swift; sourceTree = "<group>"; };
+		5AFEA6AF2A2E5CAC00BBEDDE /* ArrayBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				5AFEA6A92A2E3EEC00BBEDDE /* ScrollViewBootCamp.swift */,
 				5AFEA6AB2A2E43A500BBEDDE /* ScrollViewReaderBootCamp.swift */,
 				5AFEA6AD2A2E53AA00BBEDDE /* HashabaleBootCamp.swift */,
+				5AFEA6AF2A2E5CAC00BBEDDE /* ArrayBootCamp.swift */,
 				5AFEA69D2A2A583D00BBEDDE /* Assets.xcassets */,
 				5AFEA69F2A2A583D00BBEDDE /* Preview Content */,
 			);
@@ -154,6 +157,7 @@
 				5AFEA6AC2A2E43A500BBEDDE /* ScrollViewReaderBootCamp.swift in Sources */,
 				5AFEA69C2A2A583800BBEDDE /* EscapingBootCamp.swift in Sources */,
 				5AFEA6AA2A2E3EEC00BBEDDE /* ScrollViewBootCamp.swift in Sources */,
+				5AFEA6B02A2E5CAC00BBEDDE /* ArrayBootCamp.swift in Sources */,
 				5AFEA69A2A2A583800BBEDDE /* SwiftUIBootCampApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
