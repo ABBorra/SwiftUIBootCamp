@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A44687A2A3B3835000FB23E /* TaskBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4468792A3B3835000FB23E /* TaskBootCamp.swift */; };
 		5A479C9D2A30FFA600969809 /* SubcriberBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A479C9C2A30FFA600969809 /* SubcriberBootCamp.swift */; };
 		5A7A68B12A2F8873007FD4A3 /* LazyVGridBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A7A68B02A2F8873007FD4A3 /* LazyVGridBootCamp.swift */; };
 		5AFEA69A2A2A583800BBEDDE /* SwiftUIBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AFEA6992A2A583800BBEDDE /* SwiftUIBootCampApp.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5A4468792A3B3835000FB23E /* TaskBootCamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskBootCamp.swift; sourceTree = "<group>"; };
 		5A479C9C2A30FFA600969809 /* SubcriberBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubcriberBootCamp.swift; sourceTree = "<group>"; };
 		5A7A68B02A2F8873007FD4A3 /* LazyVGridBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGridBootCamp.swift; sourceTree = "<group>"; };
 		5AFEA6962A2A583800BBEDDE /* SwiftUIBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -74,6 +76,7 @@
 				5AFEA6AF2A2E5CAC00BBEDDE /* ArrayBootCamp.swift */,
 				5A7A68B02A2F8873007FD4A3 /* LazyVGridBootCamp.swift */,
 				5A479C9C2A30FFA600969809 /* SubcriberBootCamp.swift */,
+				5A4468792A3B3835000FB23E /* TaskBootCamp.swift */,
 				5AFEA69D2A2A583D00BBEDDE /* Assets.xcassets */,
 				5AFEA69F2A2A583D00BBEDDE /* Preview Content */,
 			);
@@ -163,6 +166,7 @@
 				5AFEA6AC2A2E43A500BBEDDE /* ScrollViewReaderBootCamp.swift in Sources */,
 				5A7A68B12A2F8873007FD4A3 /* LazyVGridBootCamp.swift in Sources */,
 				5AFEA69C2A2A583800BBEDDE /* EscapingBootCamp.swift in Sources */,
+				5A44687A2A3B3835000FB23E /* TaskBootCamp.swift in Sources */,
 				5AFEA6AA2A2E3EEC00BBEDDE /* ScrollViewBootCamp.swift in Sources */,
 				5A479C9D2A30FFA600969809 /* SubcriberBootCamp.swift in Sources */,
 				5AFEA6B02A2E5CAC00BBEDDE /* ArrayBootCamp.swift in Sources */,
